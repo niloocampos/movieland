@@ -16,6 +16,7 @@ function App() {
   };
 
   return (
+    // eslint-disable-next-line react/jsx-filename-extension
     <div className="App">
       <h1 className="pt-5 text-3xl text-emerald-500 font-semibold">MovieLand</h1>
       <div className="search flex items-center justify-center mt-10">
